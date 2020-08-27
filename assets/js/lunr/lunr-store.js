@@ -185,12 +185,6 @@
       
 
       
-        <li>
-          <a href="http://tk-g.hatenablog.jp/" itemprop="url">
-            <i class="fas fa-fw fa-link" aria-hidden="true"></i> Blog (in Japanese)
-          </a>
-        </li>
-      
 
       
         <li>
