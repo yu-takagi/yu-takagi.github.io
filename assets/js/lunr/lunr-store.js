@@ -127,7 +127,7 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="https://tk-g.hatenablog.jp/">Home</a>
+              <a href="">Home</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
