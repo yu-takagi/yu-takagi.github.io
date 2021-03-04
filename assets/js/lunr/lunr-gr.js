@@ -127,7 +127,7 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="">Home</a>
+              <a href="https://tk-g.hatenablog.jp/">Home</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -184,6 +184,12 @@
         </li>
       
 
+      
+        <li>
+          <a href="https://tk-g.hatenablog.jp/" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> Blog (in Japanese)
+          </a>
+        </li>
       
 
       
@@ -870,7 +876,7 @@ $(document).ready(function() {
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2020 Yu Takagi. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2021 Yu Takagi. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
       </footer>
     </div>
 
