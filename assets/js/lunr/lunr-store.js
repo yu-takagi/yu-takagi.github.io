@@ -185,6 +185,12 @@
       
 
       
+        <li>
+          <a href="https://yu-takagi.github.io/" itemprop="url">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> Blog (in Japanese)
+          </a>
+        </li>
+      
 
       
         <li>
