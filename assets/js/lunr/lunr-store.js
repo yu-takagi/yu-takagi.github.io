@@ -20,7 +20,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Yu Takagi">
 <meta property="og:title" content="Yu Takagi">
-<meta property="og:url" content="https://tk-g.hatenablog.jp//assets/js/lunr/lunr-store.js">
+<meta property="og:url" content="/assets/js/lunr/lunr-store.js">
 
 
   <meta property="og:description" content="var store = []">
@@ -40,7 +40,7 @@
   
 
 
-<link rel="canonical" href="https://tk-g.hatenablog.jp//assets/js/lunr/lunr-store.js">
+<link rel="canonical" href="/assets/js/lunr/lunr-store.js">
 
 
 
@@ -51,7 +51,7 @@
     
       "@type": "Person",
       "name": "Yu Takagi",
-      "url": "https://tk-g.hatenablog.jp//"
+      "url": "/"
     
   }
 </script>
@@ -186,7 +186,7 @@
 
       
         <li>
-          <a href="https://yu-takagi.github.io/" itemprop="url">
+          <a href="https://tk-g.hatenablog.jp/" itemprop="url">
             <i class="fas fa-fw fa-link" aria-hidden="true"></i> Blog (in Japanese)
           </a>
         </li>
@@ -313,11 +313,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=%20https%3A%2F%2Ftk-g.hatenablog.jp%2F%2Fassets%2Fjs%2Flunr%2Flunr-store.js" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=%20%2Fassets%2Fjs%2Flunr%2Flunr-store.js" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftk-g.hatenablog.jp%2F%2Fassets%2Fjs%2Flunr%2Flunr-store.js" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=%2Fassets%2Fjs%2Flunr%2Flunr-store.js" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftk-g.hatenablog.jp%2F%2Fassets%2Fjs%2Flunr%2Flunr-store.js" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=%2Fassets%2Fjs%2Flunr%2Flunr-store.js" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 

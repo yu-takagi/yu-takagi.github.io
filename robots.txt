@@ -1,1 +1,1 @@
-Sitemap: https://tk-g.hatenablog.jp//sitemap.xml
+Sitemap: /sitemap.xml
