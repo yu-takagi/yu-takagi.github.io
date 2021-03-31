@@ -20,7 +20,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="Yu Takagi">
 <meta property="og:title" content="Yu Takagi">
-<meta property="og:url" content="https://yu-takagi.github.io/assets/js/lunr/lunr-gr.js">
+<meta property="og:url" content="https://tk-g.hatenablog.jp//assets/js/lunr/lunr-gr.js">
 
 
   <meta property="og:description" content="step1list = new Array(); step1list[“ΦΑΓΙΑ”] = “ΦΑ”; step1list[“ΦΑΓΙΟΥ”] = “ΦΑ”; step1list[“ΦΑΓΙΩΝ”] = “ΦΑ”; step1list[“ΣΚΑΓΙΑ”] = “ΣΚΑ”; step1list[“ΣΚΑΓΙΟΥ”] = “ΣΚΑ”; step1list[“ΣΚΑΓΙΩΝ”] = “ΣΚΑ”; step1list[“ΟΛΟΓΙΟΥ”] = “ΟΛΟ”; step1list[“ΟΛΟΓΙΑ”] = “ΟΛΟ”; step1list[“ΟΛΟΓΙΩΝ”] = “ΟΛΟ”; step1list[“ΣΟΓΙΟΥ”] = “ΣΟ”; step1list[“ΣΟΓΙΑ”] = “ΣΟ”; step1list[“ΣΟΓΙΩΝ”] = “ΣΟ”; step1list[“ΤΑΤΟΓΙΑ”] = “ΤΑΤΟ”; step1list[“ΤΑΤΟΓΙΟΥ”] = “ΤΑΤΟ”; step1list[“ΤΑΤΟΓΙΩΝ”] = “ΤΑΤΟ”; step1list[“ΚΡΕΑΣ”] = “ΚΡΕ”; step1list[“ΚΡΕΑΤΟΣ”] = “ΚΡΕ”; step1list[“ΚΡΕΑΤΑ”] = “ΚΡΕ”; step1list[“ΚΡΕΑΤΩΝ”] = “ΚΡΕ”; step1list[“ΠΕΡΑΣ”] = “ΠΕΡ”; step1list[“ΠΕΡΑΤΟΣ”] = “ΠΕΡ”; step1list[“ΠΕΡΑΤΑ”] = “ΠΕΡ”; step1list[“ΠΕΡΑΤΩΝ”] = “ΠΕΡ”; step1list[“ΤΕΡΑΣ”] = “ΤΕΡ”; step1list[“ΤΕΡΑΤΟΣ”] = “ΤΕΡ”; step1list[“ΤΕΡΑΤΑ”] = “ΤΕΡ”; step1list[“ΤΕΡΑΤΩΝ”] = “ΤΕΡ”; step1list[“ΦΩΣ”] = “ΦΩ”; step1list[“ΦΩΤΟΣ”] = “ΦΩ”; step1list[“ΦΩΤΑ”] = “ΦΩ”; step1list[“ΦΩΤΩΝ”] = “ΦΩ”; step1list[“ΚΑΘΕΣΤΩΣ”] = “ΚΑΘΕΣΤ”; step1list[“ΚΑΘΕΣΤΩΤΟΣ”] = “ΚΑΘΕΣΤ”; step1list[“ΚΑΘΕΣΤΩΤΑ”] = “ΚΑΘΕΣΤ”; step1list[“ΚΑΘΕΣΤΩΤΩΝ”] = “ΚΑΘΕΣΤ”; step1list[“ΓΕΓΟΝΟΣ”] = “ΓΕΓΟΝ”; step1list[“ΓΕΓΟΝΟΤΟΣ”] = “ΓΕΓΟΝ”; step1list[“ΓΕΓΟΝΟΤΑ”] = “ΓΕΓΟΝ”; step1list[“ΓΕΓΟΝΟΤΩΝ”] = “ΓΕΓΟΝ”;">
@@ -40,7 +40,7 @@
   
 
 
-<link rel="canonical" href="https://yu-takagi.github.io/assets/js/lunr/lunr-gr.js">
+<link rel="canonical" href="https://tk-g.hatenablog.jp//assets/js/lunr/lunr-gr.js">
 
 
 
@@ -51,7 +51,7 @@
     
       "@type": "Person",
       "name": "Yu Takagi",
-      "url": "https://yu-takagi.github.io/"
+      "url": "https://tk-g.hatenablog.jp//"
     
   }
 </script>
@@ -834,11 +834,11 @@ $(document).ready(function() {
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=%20https%3A%2F%2Fyu-takagi.github.io%2Fassets%2Fjs%2Flunr%2Flunr-gr.js" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=%20https%3A%2F%2Ftk-g.hatenablog.jp%2F%2Fassets%2Fjs%2Flunr%2Flunr-gr.js" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyu-takagi.github.io%2Fassets%2Fjs%2Flunr%2Flunr-gr.js" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftk-g.hatenablog.jp%2F%2Fassets%2Fjs%2Flunr%2Flunr-gr.js" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fyu-takagi.github.io%2Fassets%2Fjs%2Flunr%2Flunr-gr.js" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Ftk-g.hatenablog.jp%2F%2Fassets%2Fjs%2Flunr%2Flunr-gr.js" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
 
