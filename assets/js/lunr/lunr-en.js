@@ -170,7 +170,7 @@
     
     
       <p class="author__bio" itemprop="description">
-        Postdoctoral fellow @ University of Tokyo
+        Assistant Professor @ Osaka University
       </p>
     
   </div>
@@ -180,7 +180,7 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Tokyo, Japan</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Osaka, Japan</span>
         </li>
       
 
